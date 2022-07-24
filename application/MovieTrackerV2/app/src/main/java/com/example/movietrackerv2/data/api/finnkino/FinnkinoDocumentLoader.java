@@ -24,8 +24,8 @@ public class FinnkinoDocumentLoader extends AsyncDownloader {
     public Document getResult() {
         Document doc = null;
         try {
-            // waits at most 2 seconds for the result
-            doc = get(2, TimeUnit.SECONDS);
+            // waits at most 15 seconds for the result
+            doc = get(15, TimeUnit.SECONDS);
         } catch (ExecutionException | InterruptedException | TimeoutException e) {
             e.printStackTrace();
         }
