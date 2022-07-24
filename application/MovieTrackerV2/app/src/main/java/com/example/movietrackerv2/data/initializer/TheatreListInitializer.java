@@ -20,6 +20,8 @@ public class TheatreListInitializer {
         } else {
             return;
         }
+        if (nl == null)
+            return;
 
         // go through elements
         for (int i = 0; i < nl.getLength(); i++) {
