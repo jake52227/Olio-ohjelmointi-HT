@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_movie_24.xml" value="0.271" />
+        <entry key="app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.271" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2552083333333333" />
+        <entry key="app/src/main/res/layout/add_rating_dialog.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.309375" />
+        <entry key="app/src/main/res/layout/check_rating_dialog.xml" value="0.74" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.44655797101449274" />
+        <entry key="app/src/main/res/layout/event_fragment_dialog.xml" value="0.30833333333333335" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.2552083333333333" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.5362318840579711" />
+        <entry key="app/src/main/res/layout/fragment_movie_event.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_movie_event_.xml" value="0.5362318840579711" />
+        <entry key="app/src/main/res/layout/fragment_movie_event_hylatty.xml" value="0.5362318840579711" />
+        <entry key="app/src/main/res/layout/fragment_movie_event_list.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_movie_search.xml" value="0.309375" />
+        <entry key="app/src/main/res/layout/fragment_movie_search_list.xml" value="0.309375" />
+        <entry key="app/src/main/res/layout/fragment_rating.xml" value="0.309375" />
+        <entry key="app/src/main/res/layout/fragment_rating_archive.xml" value="0.3078125" />
+        <entry key="app/src/main/res/layout/fragment_rating_archive_list.xml" value="0.3078125" />
+        <entry key="app/src/main/res/layout/fragment_ratings.xml" value="0.2552083333333333" />
+        <entry key="app/src/main/res/layout/fragment_ratings_archive.xml" value="0.309375" />
+        <entry key="app/src/main/res/layout/fragment_ratings_archive_list.xml" value="0.309375" />
+        <entry key="app/src/main/res/layout/fragment_user.xml" value="0.309375" />
+        <entry key="app/src/main/res/layout/movie_info_dialog.xml" value="0.30833333333333335" />
+        <entry key="app/src/main/res/layout/nav_header_main.xml" value="0.2552083333333333" />
+        <entry key="app/src/main/res/layout/scheduled_event_fragment_dialog.xml" value="0.30833333333333335" />
+        <entry key="app/src/main/res/layout/scheduled_event_listview.xml" value="0.30833333333333335" />
+        <entry key="app/src/main/res/layout/user_fragment_schedule_listview.xml" value="0.30833333333333335" />
+        <entry key="app/src/main/res/menu/activity_main_drawer.xml" value="0.465625" />
+        <entry key="app/src/main/res/menu/main.xml" value="0.309375" />
+        <entry key="app/src/main/res/xml/root_preferences.xml" value="0.30885416666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
