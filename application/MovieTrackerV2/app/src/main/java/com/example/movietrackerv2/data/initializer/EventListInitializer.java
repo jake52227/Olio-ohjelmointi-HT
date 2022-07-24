@@ -35,6 +35,8 @@ public class EventListInitializer {
         } else {
             return;
         }
+        if (nl == null)
+            return;
 
         // go through list
         for (int i = 0; i < nl.getLength(); i++) {
