@@ -38,7 +38,6 @@ public class EventListInitializer {
         if (nl == null)
             return;
 
-
         // go through list
         for (int i = 0; i < nl.getLength(); i++) {
             Node node = nl.item(i);
